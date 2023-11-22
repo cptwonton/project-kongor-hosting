@@ -23,10 +23,9 @@ Embark on this adventure with caution, for while AWS costs carry no commitment, 
 
 Before you begin, ensure you have the following:
 
-- [AWS account](/aws-account.md)
-- [PK account](/project-kongor-account.md)
-  - Note: You cannot use the account you play on while also using that same account to run this server.
-  - You must use a new email that has not been used before to create a PK account
+You need an AWS account. If you don't have one yet, or if you need guidance on setting it up, follow the steps in our dedicated guide: [Setting Up Your AWS Account](aws-account.md).
+
+You need to ensure you have a Project Kongor account ready that is dedicated to hosting. If you haven't set up a Project Kongor account dedicated to hosting or need guidance on creating one for your EC2 instances, follow the steps in our dedicated guide: [Creating Your Project Kongor Account](project-kongor-account.md).
 
 ## Step 1: Set Up AWS Resources
 
