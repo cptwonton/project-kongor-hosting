@@ -23,8 +23,8 @@ Embark on this adventure with caution, for while AWS costs carry no commitment, 
 
 Before you begin, ensure you have the following:
 
-- [AWS account](/project-kongor-hosting/aws-account.md)
-- [PK account](/project-kongor-hosting/project-kongor-account.md)
+- [AWS account](/aws-account.md)
+- [PK account](/project-kongor-account.md)
   - Note: You cannot use the account you play on while also using that same account to run this server.
   - You must use a new email that has not been used before to create a PK account
 
@@ -32,11 +32,11 @@ Before you begin, ensure you have the following:
 
 ### 1.1 EC2 Instances
 
-For information on launching EC2 instances, refer to the [EC2 Instances Guide](/project-kongor-hosting/ec2-instances.md)
+For information on launching EC2 instances, refer to the [EC2 Instances Guide](/ec2-instances.md)
 
 ### 1.2 Security Groups
 
-For information on configuring security groups and opening the necessary ports, refer to the [Security Groups Guide](/project-kongor-hosting/security-groups.md).
+For information on configuring security groups and opening the necessary ports, refer to the [Security Groups Guide](/security-groups.md).
 
 ### 1.3 Public IP
 
@@ -119,7 +119,7 @@ Once someone grants you those permissions, your server will automatically pick t
 
 ### 3.1 AWS Cost Explorer
 
-Please see [AWS Cost Explorer](/project-kongor-hosting/aws-cost-explorer.md)
+Please see [AWS Cost Explorer](/aws-cost-explorer.md)
 
 ### 3.2 HonFigurator Management Portal
 
